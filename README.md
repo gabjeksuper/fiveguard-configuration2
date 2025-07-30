@@ -1,4 +1,4 @@
-# Ultimate Fiveguard Configuration
+# Fiveguard Configuration Tutorial
 The following tutorial is to help you configure your [Fiveguard.net](https://fiveguard.net/) license and protect your server 100% from cheaters.
 
 
